@@ -1,11 +1,43 @@
+📚 Research Paper Maker Interface
 
-  # Research Paper Maker Interface
+A modern, clean, and interactive Research Paper Maker Interface built using React, TypeScript, Tailwind CSS, ShadCN UI, and Vite.
+This project helps users create, format, organize, and edit research papers with an intuitive dashboard and editor system.
 
-  This is a code bundle for Research Paper Maker Interface. The original project is available at https://www.figma.com/design/NRwNOTDGOoatvxDteq6IMy/Research-Paper-Maker-Interface.
+🚀 Features
+✅ Modern Dashboard
 
-  ## Running the code
+Minimal and elegant UI
 
-  Run `npm i` to install the dependencies.
+Quick access to documents and templates
 
-  Run `npm run dev` to start the development server.
-  
+Recent papers section
+
+Stats and progress indicators
+
+📝 Research Paper Editor
+
+Multi-step paper creation wizard
+
+Clean and distraction-free editor
+
+Sidebar navigation for structure
+
+AI-assisted suggestions (Ask AI Button)
+
+🧩 Components
+
+Reusable UI components built with ShadCN
+
+Navbar, Sidebar, Cards, Tabs, Buttons
+
+Form controls, dialogs, modals, inputs
+
+File management & templates page
+
+🎨 Styling
+
+Fully responsive
+
+Built with Tailwind CSS
+
+Consistent theme across components
