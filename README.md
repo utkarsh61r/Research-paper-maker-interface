@@ -1,3 +1,5 @@
+<img width="1888" height="926" alt="image" src="https://github.com/user-attachments/assets/5faf0158-19be-426d-b2bd-c5f137acf41e" />
+
 📚 Research Paper Maker Interface
 
 A modern, clean, and interactive Research Paper Maker Interface built using React, TypeScript, Tailwind CSS, ShadCN UI, and Vite.
